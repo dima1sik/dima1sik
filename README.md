@@ -1,65 +1,55 @@
-﻿# Hi, I’m Dima 👋
+﻿# Hi, I'm Dmytro 👋
 
-I’m a Computer Science student building projects across Android, Unity, Python, web development, and C# desktop applications.
+I'm a Computer Science student building portfolio projects in C#/.NET, desktop applications, Android development, Python, JavaScript and UI-focused business systems.
 
-This profile contains university and personal projects that I cleaned up, tested, translated to English, and organized as a portfolio.
+My current main focus is C# / .NET, user interfaces, internal business applications and practical software engineering.
 
-## Android Projects
+## Main Focus: C# / .NET / UI Projects
 
-- [WeatherNow Android](https://github.com/dima1sik/android-weather-app)  
-  Android weather app built with Kotlin, Jetpack Compose, Retrofit, and local API key configuration.
+### MiniCRM
 
-- [TaskFlow Android](https://github.com/dima1sik/taskflow-android)  
-  Modern Android to-do app built with Kotlin, Jetpack Compose, Room, and Clean Architecture.
+C#/.NET CRM web application with dashboard, client management, Client 360 view, deal pipeline, follow-up tasks, reports, user management, role-based access and local data persistence.
 
-- [Clean Calculator Android](https://github.com/dima1sik/calculator-android)  
-  Clean Android calculator app built with Java and XML layouts.
+**Tech:** C#, .NET, ASP.NET Core, HTML, CSS, JSON
 
-## Unity Games
+### Virtual Piano Studio
 
-- [Harvest Grove](https://github.com/dima1sik/unity-farm-game)  
-  Unity 2D farming game prototype with planting, crop plots, store logic, and isometric-style visuals.
+C# Windows Forms desktop application with a main piano interface, melody window, settings window and sound playback logic.
 
-- [Asteroids: Space Shooter](https://github.com/dima1sik/unity-asteroids-game)  
-  Unity 2D space shooter inspired by classic Asteroids gameplay.
+**Tech:** C#, Windows Forms, .NET Framework, Visual Studio
 
-- [Flappy Bird Unity Clone](https://github.com/dima1sik/unity-flappy-bird)  
-  Unity 2D arcade game inspired by Flappy Bird.
+### Comb Sort Visualizer
 
-## Python / AI / Visualization
+C# WPF desktop application for visualizing the Comb Sort algorithm through a graphical interface.
 
-- [Tetris Evolution AI](https://github.com/dima1sik/tetris-ai-genetic-algorithm)  
-  Tetris AI project using genetic algorithms, Pygame visualization, and automated tests.
+**Tech:** C#, WPF, XAML, .NET Framework
 
-- [Fractal Fern Visualizer](https://github.com/dima1sik/fractal-fern-visualizer)  
-  Python desktop app for real-time Barnsley fern fractal visualization.
+## Other Projects
 
-## C# Desktop Applications
+### TaskFlow Android
 
-- [Virtual Piano Studio](https://github.com/dima1sik/virtual-piano-studio)  
-  C# Windows Forms virtual piano application with melody and settings features.
+Modern Android to-do application built with Kotlin, Jetpack Compose, Room and Clean Architecture principles.
 
-- [Comb Sort Visualizer](https://github.com/dima1sik/comb-sort-visualizer)  
-  C# WPF desktop app for visualizing the Comb Sort algorithm.
+### Tetris Evolution AI
 
-## Web / Image Processing
+Python project where a genetic algorithm evolves strategies for playing Tetris. Includes game logic, simulation, Pygame visualization and automated tests.
 
-- [Pixel Scrambler Lab](https://github.com/dima1sik/pixel-scrambler)  
-  Browser-based image scrambling and unscrambling experiment using JavaScript and Canvas API.
+### Pixel Scrambler Lab
+
+Browser-based image scrambling and unscrambling experiment using JavaScript and Canvas API.
 
 ## Tech Stack
 
-**Languages:** Kotlin, Java, C#, Python, JavaScript, HTML, CSS  
-**Mobile:** Android SDK, Jetpack Compose, Room, Retrofit  
-**Game Development:** Unity, C#, 2D gameplay systems  
-**Desktop:** Windows Forms, WPF, PySide6  
-**Tools:** Git, GitHub, Gradle, Visual Studio, Android Studio, Unity Hub
+**Languages:** C#, Kotlin, Java, Python, JavaScript, HTML, CSS
 
-## Focus Areas
+**.NET / Desktop:** ASP.NET Core, Windows Forms, WPF, XAML, .NET Framework
 
-- Android application development
-- Unity 2D game development
-- AI / algorithmic projects
-- Desktop GUI applications
-- Educational visualizations
-- Clean project organization for GitHub
+**Mobile:** Android SDK, Jetpack Compose, Room, Retrofit
+
+**Web:** HTML, CSS, JavaScript, ASP.NET Core
+
+**Tools:** Git, GitHub, Visual Studio, Android Studio, VS Code, Unity Hub
+
+## What I'm looking for
+
+I am looking for university practical training where I can improve my skills in C#/.NET, software development, UI development, testing, documentation and real project work.
