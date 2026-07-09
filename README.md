@@ -1,4 +1,4 @@
-# Hi, I'm Dmytro ??
+﻿# Hi, I'm Dmytro ??
 
 I'm a Computer Science student building portfolio projects in C#/.NET, desktop applications, Android development, Python, JavaScript and Unity.
 
@@ -100,7 +100,3 @@ Harvest Grove is a Unity farming game prototype focused on planting, growing and
 
 **Tools:** Git, GitHub, Visual Studio, Android Studio, VS Code, Unity Hub
 
-## About This Portfolio
-
-This GitHub profile contains university projects, portfolio applications and technical experiments.
-The main focus is on practical software development, user interfaces, business workflows, desktop applications, mobile apps and clean project presentation.
