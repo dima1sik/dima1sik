@@ -1,4 +1,4 @@
-﻿# Hi, I'm Dmytro ??
+﻿# Hi, I'm Dmytro 
 
 I'm a Computer Science student building portfolio projects in C#/.NET, desktop applications, Android development, Python, JavaScript and Unity.
 
