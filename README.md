@@ -1,102 +1,113 @@
-﻿# Hi, I'm Dmytro 
+# Hi, I'm Dmytro 👋
 
-I'm a Computer Science student building portfolio projects in C#/.NET, desktop applications, Android development, Python, JavaScript and Unity.
+I'm a **Junior 3D Artist** focused on creating stylized, game-ready **props and environments**.
 
-I enjoy creating practical applications with clean user interfaces, structured project logic and real workflows. My main interests are C#/.NET, UI development, business applications, desktop software and mobile apps.
+My main 3D tool is **Blender**. I work with low-poly modeling, UV unwrapping, texturing, materials, optimization, lighting, and presentation.
 
-## Featured Projects
+I'm also a **Computer Science student** with hands-on experience developing game prototypes in **Unity and C#**. This gives me an understanding of how 3D assets are used inside real-time game engines and how art connects with gameplay systems.
 
-### MiniCRM
+🎨 **3D Portfolio:** [ArtStation](https://dima-nesvitailo.artstation.com)
 
-MiniCRM is a C#/.NET CRM web application for managing clients, sales deals, follow-up tasks, reports, users and role-based access.
+---
 
-The project focuses on business-oriented workflows, user interface design, CRM data structure and local data persistence.
+## 🎨 3D Art
 
-**Tech:** C#, .NET, ASP.NET Core, HTML, CSS, JSON
+- Blender
+- Stylized low-poly modeling
+- Props & environments
+- Game-ready assets
+- UV unwrapping
+- Hand-painted texturing
+- Materials
+- Topology & polycount optimization
+- Lighting & rendering
+- Unreal Engine 5
 
-### Virtual Piano Studio
+---
 
-Virtual Piano Studio is a C# Windows Forms desktop application for playing piano notes and working with simple melodies.
+## 🎮 Unity & Game Development
 
-**Tech:** C#, Windows Forms, .NET Framework, Visual Studio
+I have practical Unity experience from university and personal game-development projects.
 
-### Comb Sort Visualizer
+### Unity experience
 
-Comb Sort Visualizer is a C# WPF desktop application for visualizing how the Comb Sort algorithm works.
+- Unity scenes & GameObjects
+- Prefabs
+- ScriptableObjects
+- C# gameplay scripting
+- 2D physics & collisions
+- UI systems
+- Object spawning
+- Scene management
+- Basic economy & game-state systems
+- Git & GitHub
 
-**Tech:** C#, WPF, XAML, .NET Framework
+---
 
-## Android Projects
+# 🌱 Featured Unity Project — Harvest Grove
 
-### TaskFlow Android
+**Harvest Grove** is a 2D farming game prototype built with **Unity and C#**.
 
-TaskFlow Android is a modern to-do application built with Kotlin, Jetpack Compose, Room and Clean Architecture principles.
+I implemented systems including:
 
-**Tech:** Kotlin, Android SDK, Jetpack Compose, Room, ViewModel
+- Planting and harvesting
+- Multiple crop growth stages
+- Watering
+- Fertilizer / growth-speed mechanics
+- Purchasing additional farm plots
+- Store and currency logic
+- ScriptableObject-based plant data
+- Prefab-based UI
+- Isometric object sorting
+- Player interaction with farm plots
 
-### WeatherNow Android
+**Tech:** Unity · C# · ScriptableObjects · Prefabs · TextMesh Pro
 
-WeatherNow Android is a mobile weather application built with Kotlin, Jetpack Compose and Retrofit.
+👉 [View Harvest Grove](https://github.com/dima1sik/unity-farm-game)
 
-**Tech:** Kotlin, Android SDK, Jetpack Compose, Retrofit, ViewModel
+---
 
-### Clean Calculator Android
+## 🐦 Additional Unity Project
 
-Clean Calculator Android is a lightweight calculator application built with Java and Android XML layouts.
+### Flappy Bird Prototype
 
-**Tech:** Java, Android SDK, XML Layouts, Gradle
+A small Unity project created while learning core engine systems.
 
-## Python and Web Projects
+Worked with:
 
-### Tetris Evolution AI
+- Rigidbody2D
+- Collision and trigger events
+- Player input
+- Prefab spawning
+- Score UI
+- Game-over logic
+- Scene management
 
-Tetris Evolution AI is a Python project where a genetic algorithm evolves strategies for playing Tetris.
+👉 [View project](https://github.com/dima1sik/unity-flappy-bird)
 
-**Tech:** Python, Pygame, NumPy, Pytest, Genetic Algorithms
+---
 
-### Fractal Fern Visualizer
+## 💻 Computer Science
 
-Fractal Fern Visualizer is a Python desktop application for generating and visualizing Barnsley fern fractals.
+My university work also includes projects using:
 
-**Tech:** Python, PySide6, pyqtgraph, NumPy
+- C# / .NET
+- Kotlin / Android
+- Python
+- JavaScript
+- Algorithms & data structures
+- Desktop and web development
 
-### Pixel Scrambler Lab
+These projects are available in my repositories, but my current career focus is **3D Art for Games**.
 
-Pixel Scrambler Lab is a browser-based image scrambling and unscrambling experiment.
+---
 
-**Tech:** HTML, CSS, JavaScript, Canvas API
+## 🎯 Current Goal
 
-## Unity Projects
+I'm looking for my first opportunity as a **Junior 3D Artist / 3D Art Intern**.
 
-### Asteroids: Space Shooter
+I'm particularly interested in creating stylized **props and environments** and working with assets inside real-time engines such as **Unity and Unreal Engine**.
 
-Asteroids: Space Shooter is a Unity 2D space shooter inspired by classic asteroid-dodging arcade gameplay.
+📍 Vilnius, Lithuania
 
-**Tech:** Unity, C#, 2D Game Development, Unity Physics
-
-### Flappy Bird Unity Clone
-
-Flappy Bird Unity Clone is a 2D Unity game prototype inspired by the classic Flappy Bird gameplay loop.
-
-**Tech:** Unity, C#, 2D Game Development, Unity Prefabs
-
-### Harvest Grove
-
-Harvest Grove is a Unity farming game prototype focused on planting, growing and managing crops in a small 2D farm environment.
-
-**Tech:** Unity, C#, Scriptable Objects, TextMesh Pro
-
-## Tech Stack
-
-**Languages:** C#, Kotlin, Java, Python, JavaScript, HTML, CSS
-
-**C# / .NET:** ASP.NET Core, Windows Forms, WPF, XAML, .NET Framework
-
-**Mobile:** Android SDK, Jetpack Compose, Room, Retrofit
-
-**Web:** HTML, CSS, JavaScript, ASP.NET Core
-
-**Game Development:** Unity, C#, 2D gameplay systems
-
-**Tools:** Git, GitHub, Visual Studio, Android Studio, VS Code, Unity Hub
-
+🎨 [ArtStation Portfolio](https://dima-nesvitailo.artstation.com)
